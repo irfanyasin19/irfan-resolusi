@@ -1,6 +1,10 @@
 Apa saja yang harus saya perlajari
 - Saya harus belajar algoritma Pemograman
+  *biner
+  *algoritma komputer
 - Saya harus belajar bahasa python
+  *syntax
+  *integer
 - saya harus belajar bahasa c++
 - saya harus belajar bahasa java
 - saya harus belajar bahasa Html
